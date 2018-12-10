@@ -1,0 +1,16 @@
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/entity/OrderAnaylisis.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/controller/AisleController.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/controller/OrderAnalysisController.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/repository/DepartmentRepo.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/repository/OrderAnalyRepo.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/controller/OrderController.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/entity/Department.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/controller/ProductController.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/controller/DepartmentController.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/entity/Aisle.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/BackendApplication.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/entity/Product.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/repository/AisleRepo.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/entity/Order.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/repository/ProductRepo.java
+/Applications/MAMP/htdocs/LetsShop/project586/backend/src/main/java/com/example/backend/repository/OrderRepo.java
